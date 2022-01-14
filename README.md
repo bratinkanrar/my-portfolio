@@ -1,5 +1,5 @@
 ##  THIS IS MY FRONT PREVIEW
-![Watch Now](./img/Design.jpg)
+![Watch Now](img/Design.jfif)
 
 ## Welcome to GitHub Pages
 
